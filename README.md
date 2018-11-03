@@ -1,6 +1,6 @@
 # Baseball Fun Facts
 
-Print random baseball related "fun facts" in your shell. Depends on fortune and cowsay being installed. Could be used a fun MOTD.
+Print random baseball related "fun facts" in your shell. Depends on fortune and cowsay being installed. Could be used as a fun MOTD.
 
 ## Installation:
 
