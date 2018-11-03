@@ -24,7 +24,7 @@ plugins=(... bbff)
 
 bbff
 
-![](https://github.com/richardmoyer/baseballfunfacts/blob/master/bbff2.png?raw=true)
+![](https://github.com/richardmoyer/baseballfunfacts/blob/master/bbff3.png?raw=true)
 
 bbff_cow
 
