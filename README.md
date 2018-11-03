@@ -20,7 +20,7 @@ plugins=(... bbff)
 | `bbff_cow` | Print fun fact in cowthink             |
 
 
-##Screenshots:
+## Screenshots:
 
 bbff
 
