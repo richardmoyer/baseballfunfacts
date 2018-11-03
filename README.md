@@ -22,10 +22,10 @@ plugins=(... bbff)
 
 ## Screenshots:
 
-bbff
+`bbff`
 
 ![](https://github.com/richardmoyer/baseballfunfacts/blob/master/bbff3.png?raw=true)
 
-bbff_cow
+`bbff_cow`
 
 ![](https://github.com/richardmoyer/baseballfunfacts/blob/master/bbff_cow.png?raw=true)
