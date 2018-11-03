@@ -4,7 +4,7 @@ Print random baseball related "fun facts" in your shell. Depends on fortune and 
 
 ## Installation:
 
-- Clone this repository to ~/.oh-my-zsh/plugins/bbff/bbff.plugin.zsh
+- Clone this repository to ~/.oh-my-zsh/plugins/
 - Source your zsh file:  `source ~/.zshrc`
 - Restart zsh
 
