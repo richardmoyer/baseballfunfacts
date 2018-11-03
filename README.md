@@ -20,4 +20,4 @@ plugins=(... bbff)
 | `bbff_cow` | Print fun fact in cowthink             |
 
 
-(https://github.com/richardmoyer/baseballfunfacts/blob/master/bbff_cow.png)
+![](https://github.com/richardmoyer/baseballfunfacts/blob/master/bbff_cow.png?raw=true)
